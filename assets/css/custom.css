@@ -1,0 +1,18 @@
+.img {
+	height: 50px;
+	width: 50px;
+	border-radius: 25px;
+}
+
+.wid {
+    width: 50%;
+}
+
+.radio, .checkbox {
+	margin-top: 0px;
+}
+
+a.btn {
+	display: initial;
+	margin: 2px;
+}
